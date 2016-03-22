@@ -26,6 +26,11 @@
 /* Step-2.3  You can either use float left or position absolute to get this element to in the desired location */
 
 .logo-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 33px;
+    height: 60%;
+    width: 27%;
     background: #4F4949;
     float: left;
 }
@@ -35,7 +40,10 @@
 
 .menu-container {
     background: #4F4949;
-    float: left;
+    margin: 20px;
+    height: 60px;
+    width: 50px;
+    float: right;
 }
 
 
