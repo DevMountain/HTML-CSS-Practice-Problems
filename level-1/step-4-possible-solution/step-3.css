@@ -2,16 +2,15 @@
     height: 100px;
     background: #444;
 }
-
-.content-container {
-    width: 80%;
-    margin: 40px auto;
-    background: #D8D8D8;
-}
-
 .content {
     height: 275px;
     padding:50px;
     text-align: center;
 
+}
+
+.content-container {
+    width: 80%;
+    margin: 40px auto;
+    background: #D8D8D8;
 }

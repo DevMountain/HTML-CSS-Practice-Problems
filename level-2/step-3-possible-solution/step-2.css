@@ -1,5 +1,5 @@
 
-/* Step-2.1 add some padding so that the inner containers will have some space from the edges  */
+/* Step-2.1 add a property that will align items center  */
 .main-bottom-section {
     margin-top: 65px;
     text-align: center;
