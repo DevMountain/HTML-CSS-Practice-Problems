@@ -3,15 +3,16 @@
     background: #444;
 }
 
-
-/* Step-3.3 add a margin top to give this container some space. Also your going to want to set the  margin-left and margin-right to auto. This will give equal distance left and right to the container. Essentially centering the container   */
-.content-container {
- background: #D8D8D8;
-}
-
-
 /* Step-3.2  Remember to add some padding and text-align*/
 
 .content {
 
 }
+
+
+/* Step-3.3 add a margin top to give this container some space. Also you're going to want to set the  margin-left and margin-right to auto. This will give equal distance left and right to the container. Essentially centering the container   */
+.content-container {
+ background: #D8D8D8;
+}
+
+

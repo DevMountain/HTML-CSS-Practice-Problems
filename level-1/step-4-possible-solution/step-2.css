@@ -1,5 +1,23 @@
 /* Step-2.1 add styles to match the step-2 design */
 
+.profile-image-container {
+    width: 80%;
+    height: 180px;
+    margin: auto;
+    background: #96F0F2;
+}
+
+/* Step-2.2 add styles to match the step-2 design */
+
+.profile-links-container {
+    width: 80%;
+    height: 300px;
+    margin: 20px auto;
+    background: #12F3F7;
+}
+
+/* Step-2.3 add styles to match the step-2 design */
+
 .logo-container {
     width: 26%;
     height: 60px;
@@ -8,7 +26,7 @@
     margin-top: 20px;
     background: #4F4949;
 }
-/* Step-2.1 add styles to match the step-2 design */
+/* Step-2.4 add styles to match the step-2 design */
 
 .menu-container {
     width: 60px;
@@ -17,21 +35,4 @@
     margin-right: 10px;
     margin-top: 20px;
     background: #4F4949;
-}
-/* Step-2.1 add styles to match the step-2 design */
-
-.profile-image-container {
-    width: 80%;
-    height: 180px;
-    margin: auto;
-    background: #96F0F2;
-}
-
-/* Step-2.1 add styles to match the step-2 design */
-
-.profile-links-container {
-    width: 80%;
-    height: 300px;
-    margin: 20px auto;
-    background: #12F3F7;
 }

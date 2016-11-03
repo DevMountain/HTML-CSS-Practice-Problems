@@ -4,8 +4,8 @@
     width: 100%;
     height: 375px;
     background: #F7F1E7;
-    position: relative;
-    /*You will need to add a position property to get this to look like he design */
+    
+    /*You will need to add a position property to get this to look like the design */
 
 }
 
@@ -18,7 +18,7 @@
 }
 
 /*  Step-1.2 You need to get all of these elements to line up side by side. What display property would do this for you? */
-/*  Step-1.2 You will also need t add a position property to the logo and sign in containers */
+/*  Step-1.2 You will also need to add a position property to the logo and sign in containers */
 
 .menu {
     width: 100px;
