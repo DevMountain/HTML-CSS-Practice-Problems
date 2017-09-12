@@ -12,7 +12,7 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 1
 
-* Open `level-1/index.html` && `level-1/step-1.css` && `level-1/step-1.jpg`.
+* Open `level-1/index.html` && `level-1/step-1/step-1-level-1.css` && `level-1/step-1/step-1-level-1.jpg`.
 * Select the element with the class of `content-left`.
   * Position this element to the left side of the screen.
 * Select the element with the class of `content-mid`.
@@ -22,7 +22,7 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 2
 
-* Open `level-1/index.html` && `level-1/step-2.css` && `level-1/step-2.jpg`.
+* Open `level-1/index.html` && `level-1/step-2/step-2-level-1.css` && `level-1/step-2/step-2-level-1.jpg`.
 * Select the element with the class of `content-left`.
   * Add padding of 20 pixels on the top, left, right, and bottom.
 * Select the element with the class of `header`.
@@ -38,7 +38,7 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 3
 
-* Open `level-1/index.html` && `level-1/step-3.css` && `level-1/step-3.jpg`.
+* Open `level-1/index.html` && `level-1/step-3/step-3-level-1.css` && `level-1/step-3/step-3-level-1.jpg`.
 * Select the element with the class of `content-mid`.
   * Add padding of 80 pixels on the top, left, right, and bottom.
 * Select the element with the class of `content-mid-header`.
@@ -55,7 +55,7 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 1
 
-* Open `level-2/index.html` && `level-2/step-1.css` && `level-2/step-1.jpg`.
+* Open `level-2/index.html` && `level-2/step-1/step-1-level-2.css` && `level-2/step-1/step-1-level-2.jpg`.
 * Select the element with the class of `menu`, `logo` and `sign-in`.
   * Assign a display that will allow these elements to appear on the same line.
 * Select the element with the class of `menu`.
@@ -65,7 +65,7 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 2
 
-* Open `level-2/index.html` && `level-2/step-2.css` && `level-2/step-2.jpg`.
+* Open `level-2/index.html` && `level-2/step-2/step-2-level-2.css` && `level-2/step-2/step-2-level-2.jpg`.
 * Select the element with the class of `main-bottom-section`.
   * Add a text-align.
 * Select the element with the class of `item`.
@@ -79,7 +79,7 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 1
 
-* Open `level-3/index.html` && `level-3/step-1.css` && `level-3/step-1.jpg`.
+* Open `level-3/index.html` && `level-3/step-1/step-1-level-3.css` && `level-3/step-1/step-1-level-3.jpg`.
 * Select the element with the class of `main-top-section`.
   * Add a background color of `#F2EFE5`.
 * Locate the element with the class of `menu-icon` in the html.
@@ -93,7 +93,7 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 2
 
-* Open `level-3/index.html` && `level-3/step-2.jpg`.
+* Open `level-3/index.html` && `level-3/step-2/step-2-level-3.jpg`.
 * Locate the element with the class of `item-image` and alt of `tops` in the html.
   * Link the src path to `img/Tops.png`.
 * Locate the element with the class of `item-image` and alt of `bottoms` in the html.
