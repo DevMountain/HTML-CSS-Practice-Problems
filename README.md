@@ -12,7 +12,7 @@ Don't worry about being pixel perfect, and don't worry if your code doesn't matc
 
 ## Step 1
 
-* Open `level-1/index.html` && `level-1/step-1/step-1-level-1.css` && `level-1/step-1/step-1-level-1.jpg`.
+* Open `level-1/index.html` && `level-1/step-1/step-1-level-1.css` && `level-1/step-1/step-1-level-1.png`.
 * Select the element with the class of `content-left`.
   * Position this element to the left side of the screen.
 * Select the element with the class of `content-mid`.
