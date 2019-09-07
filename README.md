@@ -84,28 +84,28 @@ In level three, you will see some CSS properties that you haven't been exposed t
 * Locate the element with the class of `main-top-section`.
   * Add a background color of `#F2EFE5`.
 * Locate the element with the class of `menu-icon`.
-  * Link the src path to `level-3/img/icons/MENU`.
+  * Link the src path to `/img/icons/MENU.png`.
 * Locate the element with the class of `logo-icon`.
-  * Link the src path to `level-3/img/icons/dev-shop`.
+  * Link the src path to `/img/icons/dev-shop.png`.
 * Locate the element with the class of `sign-in`.
-  * Link the src path to `level-3/img/icons/Sign_In`.
+  * Link the src path to `/img/icons/Sign_In.png`.
 * Locate the element with the class of `shop-icon`.
-  * Link the src path to `level-3/img/icons/Shop_Deals`.
+  * Link the src path to `/img/icons/Shop_Deals.png`.
 
 ## Step 2
 
 * Locate the element with the class of `item-image` and alt of `tops`.
-  * Link the src path to `level-3/img/Tops.png`.
+  * Link the src path to `/img/Tops.png`.
 * Locate the element with the class of `item-image` and alt of `bottoms`.
-  * Link the src path to `level-3/img/bottoms.png`.
+  * Link the src path to `/img/bottoms.png`.
 * Locate the element with the class of `item-image` and alt of `accessories`.
-  * Link the src path to `level-3/img/accessories.png`.
+  * Link the src path to `/img/accessories.png`.
 * Locate the element with the class of `item-image` and alt of `collection`.
-  * Link the src path to `level-3/img/collection.png`.
+  * Link the src path to `/img/collection.png`.
 * Locate the element with the class of `item-image` and alt of `kicks`.
-  * Link the src path to `level-3/img/kicks.png`.
+  * Link the src path to `/img/kicks.png`.
 * Locate the element with the class of `item-image` and alt of `hats`.
-  * Link the src path to `level-3/img/hats.png`
+  * Link the src path to `/img/hats.png`
 
 ## Contributions
 
