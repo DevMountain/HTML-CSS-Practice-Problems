@@ -7,6 +7,7 @@
 /* Use float to get this container in its desired location. */
 
 .content-left {
+    text-align:left;
     width: 34%;
     /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
     height: 100px;
