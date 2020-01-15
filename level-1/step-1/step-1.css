@@ -1,7 +1,15 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .header {
     width: 100%;
     height: 100px;
     background: #D8D8D8;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    line-height: 100px;
 }
 
 /* Use float to get this container in its desired location. */
@@ -9,8 +17,16 @@
 .content-left {
     width: 34%;
     /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
-    height: 100px;
+    
     background: #565555;
+    float: left;
+    height: 750px;
+    color: #FFFEFF;
+    font-size: 1.7rem;
+    text-align: center;
+    font-weight: 700;
+   line-height: 750px;
+
 }
 
 
@@ -19,8 +35,13 @@
 .content-mid {
     width: 66%;
     /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
-    height: 100px;
+    height: 750px;
     background: #B0B0B0;
+    float: right;
+    font-size: 1.7rem;
+    text-align: center;
+    font-weight: 700;
+    line-height: 750px;
 }
 
 /* Use float to get this container to the bottom of the screen  */
@@ -29,4 +50,11 @@
     width: 100%;
     height: 100px;
     background: #3A3A3A;
+    position: absolute;
+    bottom: 0px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 100px;
 }
