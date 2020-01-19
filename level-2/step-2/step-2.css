@@ -1,14 +1,15 @@
 /* Step-2 add a text-align that will align items in the center.  */
 .main-bottom-section {
   margin-top: 65px;
+  text-align: center;
   /* alignment property */
 }
 
 /* Step-2 Add a width, height and display property to make these containers look like the design. */
 .item {
-   /*width*/
-    /*height*/
-    /*display*/
+   width
+    height
+    display
     margin: 0 20px 30px;
     background: #DED6D3;
     margin-bottom: 30px;
