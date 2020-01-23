@@ -10,6 +10,8 @@
     height: 70px;
     text-align: center;
     background: #D8D8D8;
+    display: flex;
+    justify-content: space-between;
 }
 
 /*  Step-1 You need to get all of these elements to line up side by side. What display property would do this for you? */
@@ -24,10 +26,8 @@
 .logo {
     width: 300px;
     height: 40px;
-    margin-top: 10px;
     background: #536A63;
     display: inline-block;
-
 }
 
 .sign-in {
