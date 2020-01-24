@@ -11,7 +11,6 @@
 }
 
 
-/* Step-2 One option to get the container to fill the parent container is to use width: auto; */
 
 .profile-image-container {
     background: #96F0F2;
@@ -20,7 +19,7 @@
     margin-bottom: 20px;
 }
 
-/* Step-2 One option to get the container to fill the parent container is to use width: auto; */
+
 
 .profile-links-container {
     background: #12F3F7;
@@ -28,18 +27,22 @@
     height: calc( 70% - 20px );
 }
 
-/* Step-2 You can either use float left to get this element to in the desired location. */
+
 
 .logo-container {
     background: #4F4949;
+    height: 100%;
+    width: 300px;
+    float: left;
 }
-
-
-/* Step-2 You can either use float right to get this element to in the desired location. */
 
 .menu-container {
     background: #4F4949;
+    height: 100%;
+    width: 50px;
+    float: right;
 }
+
 
 
 
