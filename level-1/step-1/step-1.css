@@ -10,6 +10,7 @@
     width: 34%;
     height: calc( 100vh - 200px );
     background: #565555;
+    float: left;
 }
 
 
