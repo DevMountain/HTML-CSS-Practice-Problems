@@ -24,6 +24,8 @@
 
 .profile-links-container {
     background: #12F3F7;
+    width: auto;
+    height: calc( 70% - 20px );
 }
 
 /* Step-2 You can either use float left to get this element to in the desired location. */
