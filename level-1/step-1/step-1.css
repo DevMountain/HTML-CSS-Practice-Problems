@@ -8,8 +8,7 @@
 
 .content-left {
     width: 34%;
-    /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
-    height: 100px;
+    height: calc( 100vh - 200px );
     background: #565555;
 }
 
