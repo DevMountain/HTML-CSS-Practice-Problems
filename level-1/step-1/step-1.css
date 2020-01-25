@@ -4,7 +4,7 @@
     background: #D8D8D8;
 }
 
-/* Use float to get this container in its desired location. */
+
 
 .content-left {
     width: 34%;
@@ -13,13 +13,13 @@
 }
 
 
-/* Use float to get this container in its desired location. */
+
 
 .content-mid {
     width: 66%;
-    /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
-    height: 100px;
+    height: calc( 100vh - 200px );
     background: #B0B0B0;
+    float: right;
 }
 
 
