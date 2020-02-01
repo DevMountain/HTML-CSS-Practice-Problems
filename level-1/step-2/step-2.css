@@ -1,46 +1,38 @@
 
 
 .content-left {
-    padding: 20px;
+    padding:20px 20px 20px 20px;
  
 }
-
-
 .header {
-    padding: 20px;
+    padding:20px 20px 20px 20px;
 }
-
-
 
 .profile-image-container {
     background: #96F0F2;
-    width: auto;
-    height: 30%;
-    margin-bottom: 20px;
+    width:100%;
+    height:35%;
+    margin-bottom:10px;
 }
-
-
 
 .profile-links-container {
     background: #12F3F7;
-    width: auto;
+    width: 100%;
     height: calc( 70% - 20px );
 }
 
-
-
 .logo-container {
     background: #4F4949;
-    height: 100%;
-    width: 300px;
-    float: left;
+    height: 70px;
+    width: 85px;
+    float: right;
 }
 
 .menu-container {
     background: #4F4949;
-    height: 100%;
-    width: 50px;
-    float: right;
+    height: 350px;
+    width: 70px;
+    float: left;
 }
 
 
