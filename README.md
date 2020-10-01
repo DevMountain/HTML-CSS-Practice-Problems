@@ -4,7 +4,7 @@
 
 In this project, you will be given three levels of practice using HTML and CSS. Each level will contain three or less steps. Each step will build on the last step and will contain an image file. You will use the image file as a reference for what the result should look like. The goal is to try to get as close as possible to the image's layout, using HTML and CSS that you write yourself.
 
-If you get stuck on a level you can view the solution folder provided in each level. Try to only use this folder as a last resort.
+If you got stuck on a level you can view the solution folder provided in each level. Try to only use this folder as a last resort.
 
 Don't worry about being pixel perfect and don't worry if your code doesn't match the solution exactly. As long as it looks close to the provided image, you're doing it right.
 
