@@ -76,7 +76,7 @@ Don't worry about being pixel perfect and don't worry if your code doesn't match
 
 # Level 3
 
-In level three, you will see some CSS properties that you haven't been exposed to just yet. Take this opportunity to do a little sefl study but know that you will be exposed to it during a later lecture.
+In level three, you will see some CSS properties that you haven't been exposed to just yet. Take this opportunity to do a little self study but know that you will be exposed to it during a later lecture.
 
 ## Step 1
 
